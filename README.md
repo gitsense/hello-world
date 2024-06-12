@@ -10,8 +10,8 @@ A Hello World [DevBoard](https://devboard.gitsense.com) package containing simpl
 
 ### Boards
 
-- [board-1](https://github.com/gitsense/hello-world/tree/main/boards/board-1)
-- [board-2](https://github.com/gitsense/hello-world/tree/main/boards/board-2)
+- [board-1](https://github.com/gitsense/hello-world/tree/main/boards/board-1.json)
+- [board-2](https://github.com/gitsense/hello-world/tree/main/boards/board-2.json)
 
 ### DevBoard Dependencies
 
