@@ -4,14 +4,14 @@ A Hello World [DevBoard](https://devboard.gitsense.com) package containing simpl
 
 ### Widgets
 
-- [frontend-only](https://github.com/gitsense/hello-world/widgets/frontend-only)
-- [backend-only](https://github.com/gitsense/hello-world/widgets/backend-only)
-- [fullstack](https://github.com/gitsense/hello-world/widgets/fullstack)
+- [frontend-only](https://github.com/gitsense/hello-world/tree/main/widgets/frontend-only)
+- [backend-only](https://github.com/gitsense/hello-world/tree/main/widgets/backend-only)
+- [fullstack](https://github.com/gitsense/hello-world/tree/main/widgets/fullstack)
 
 ### Boards
 
-- [board-1](https://github.com/gitsense/hello-world/boards/board-1)
-- [board-2](https://github.com/gitsense/hello-world/boards/board-2)
+- [board-1](https://github.com/gitsense/hello-world/tree/main/boards/board-1)
+- [board-2](https://github.com/gitsense/hello-world/tree/main/boards/board-2)
 
 ### DevBoard Dependencies
 
