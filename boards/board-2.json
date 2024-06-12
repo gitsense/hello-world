@@ -1,0 +1,33 @@
+{
+    "name": "board-2",
+    "displayName": "Board 2",
+    "widgets": [
+        {
+            "fullName": "hello-world.frontend-only",
+            "cols": 6,
+            "colStyle": {
+                "fontSize": "26px",
+                "fontWeight": 500,
+                "textAlign": "center" 
+            }
+        },
+        {
+            "fullName": "hello-world.fullstack",
+            "cols": 6,
+            "colStyle": {
+                "fontSize": "26px",
+                "fontWeight": 500,
+                "textAlign": "center" 
+            }
+        },
+        {
+            "fullName": "hello-world.fullstack",
+            "cols": 12,
+            "colStyle": {
+                "fontSize": "26px",
+                "fontWeight": 500,
+                "textAlign": "center" 
+            }
+        } 
+    ] 
+}
