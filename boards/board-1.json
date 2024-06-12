@@ -1,0 +1,14 @@
+{
+    "name": "board-1",
+    "displayName": "Board 1",
+    "widgets": [
+        {
+            "fullName": "hello-world.frontend-only",
+            "cols": 6
+        },
+        {
+            "fullName": "hello-world.fullstack",
+            "cols": 6
+        }
+    ] 
+}
