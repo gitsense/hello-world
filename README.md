@@ -28,5 +28,5 @@ None
 
 ### Build and bundle
 
-    cd <devboard installation directory>/packages
+    cd <devboard installation directory>
     npm run build:widgets && npm run build:boards && npm run bundle
